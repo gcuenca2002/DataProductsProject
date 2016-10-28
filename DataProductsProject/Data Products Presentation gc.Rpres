@@ -1,0 +1,42 @@
+Data Products Presentation gc
+========================================================
+author: GCuenca
+date: `r date()`
+autosize: true
+
+My APP_PLAT
+========================================================
+
+APP_PLAT shows some carcteristics about structures with a fator like high and position coordinates,
+SUBS gca.cvs is file that suppport this app.
+Some other inpts could be add in future.
+
+- Name of each structure
+- dates
+- weigth
+
+File (R Code) 
+========================================================
+
+```{r}
+df <- read.csv("App_Plat/data/TRABAJO SUBS gca.csv", stringsAsFactors = FALSE)
+head(df)
+```
+
+APP_PLAT
+========================================================
+
+Using Shiny
+
+This APP_PLT is in:
+
+https://gcuenca2002.shinyapps.io/App_Plat/
+
+APP_PLAT GITHUB
+========================================================
+
+Using Github
+
+Files Project are:
+
+https://github.com/gcuenca2002/DataProductsProject
