@@ -1,9 +1,11 @@
 # DataProductsProject
 Course Project: Shiny Application and Reproducible Pitch
 From Coursera is sending this project for Data Products Course
+
 Try to cover
 
 Shiny Application
+https://gcuenca2002.shinyapps.io/App_Plat/
 
 Shiny application with associated supporting documentation. The documentation should be thought of as whatever a user will need to get started using the application.
 Deploy the application on Rstudio's shiny server
@@ -18,6 +20,8 @@ To include enough documentation so that a novice user could use your application
 The documentation should be at the Shiny website itself. Do not post to an external link.
 
 Reproducible Pitch Presentation
+
+http://rpubs.com/gcuenca/APP_PLAT
 
 To make a pitch. With 5 slides (inclusive of the title slide) to pitch the app. To create a web page using Rstudio Presenter with an html5 slide deck.
 
